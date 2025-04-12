@@ -1,4 +1,4 @@
-sudo pip install -r requirements.txt  # On Linux/Mac
+pip install requirements.txt  # On Linux/Mac
 
 import os
 from google.colab import userdata
