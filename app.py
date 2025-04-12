@@ -1,12 +1,4 @@
-
-pip install langchain==0.1.12
-pip install langchain-google-genai==0.0.7
-pip install langchain-community==0.0.29
-pip install streamlit==1.32.2
-pip install pyngrok==7.1.5
-pip install google-generativeai>=0.3.2
-pip install streamlit streamlit_webrtc googletrans==4.0.0-rc1 langchain langchain-google-genai
-pip install SpeechRecognition pyaudio
+sudo pip install -r requirements.txt  # On Linux/Mac
 
 import os
 from google.colab import userdata
