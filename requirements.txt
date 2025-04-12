@@ -1,0 +1,9 @@
+langchain==0.1.12
+langchain-google-genai==0.0.7
+langchain-community==0.0.29
+streamlit==1.32.2
+pyngrok==7.1.5
+google-generativeai>=0.3.2
+SpeechRecognition==3.8.1
+pyaudio==0.2.11
+googletrans==4.0.0-rc1
